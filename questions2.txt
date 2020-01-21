@@ -1,0 +1,6 @@
+Instrument for writing and later being able to erase.
+Instrument to erase what you wrote.
+Z
+W
+K
+T
